@@ -1,0 +1,18 @@
+Absoluto : C:\Users\Allysom\Desktop\Nova Pasta\Jesus.PNG
+Relativo : \Nova Pasta\Jesus.PNG
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :297700
+Tamanho em Kb :290
+Tamanho em Mb :0
+-----------------------------------------
+
+Absoluto : C:\Users\Allysom\Desktop\Nova Pasta\Untitled.wma
+Relativo : \Nova Pasta\Untitled.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :269889
+Tamanho em Kb :263
+Tamanho em Mb :0
+-----------------------------------------
+

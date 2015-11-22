@@ -1,0 +1,414 @@
+Absoluto : E:\Músicas\rock\WarCry\Thumbs.db
+Relativo : \WarCry\Thumbs.db
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :5632
+Tamanho em Kb :5
+Tamanho em Mb :0
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2002 - El Sello De Los Tiempos\01 - Warcry - El sello de los tiempos + Alejandro.wma
+Relativo : \WarCry\WarCry - 2002 - El Sello De Los Tiempos\01 - Warcry - El sello de los tiempos + Alejandro.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1896872
+Tamanho em Kb :1852
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2002 - El Sello De Los Tiempos\02 - Warcry - Hijo de la ira.wma
+Relativo : \WarCry\WarCry - 2002 - El Sello De Los Tiempos\02 - Warcry - Hijo de la ira.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1609389
+Tamanho em Kb :1571
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2002 - El Sello De Los Tiempos\03 - Warcry - Capitan Lawrence.wma
+Relativo : \WarCry\WarCry - 2002 - El Sello De Los Tiempos\03 - Warcry - Capitan Lawrence.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1749743
+Tamanho em Kb :1708
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2002 - El Sello De Los Tiempos\04 - Warcry - Tú mismo.wma
+Relativo : \WarCry\WarCry - 2002 - El Sello De Los Tiempos\04 - Warcry - Tú mismo.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1423875
+Tamanho em Kb :1390
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2002 - El Sello De Los Tiempos\05 - Warcry - Un mar de estrellas.wma
+Relativo : \WarCry\WarCry - 2002 - El Sello De Los Tiempos\05 - Warcry - Un mar de estrellas.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :2021335
+Tamanho em Kb :1973
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2002 - El Sello De Los Tiempos\06 - Warcry - Un lugar.wma
+Relativo : \WarCry\WarCry - 2002 - El Sello De Los Tiempos\06 - Warcry - Un lugar.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1548334
+Tamanho em Kb :1512
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2002 - El Sello De Los Tiempos\07 - Warcry - Dispuesto a combatir.wma
+Relativo : \WarCry\WarCry - 2002 - El Sello De Los Tiempos\07 - Warcry - Dispuesto a combatir.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1586859
+Tamanho em Kb :1549
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2002 - El Sello De Los Tiempos\08 - Warcry - Vampiro.wma
+Relativo : \WarCry\WarCry - 2002 - El Sello De Los Tiempos\08 - Warcry - Vampiro.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :2193191
+Tamanho em Kb :2141
+Tamanho em Mb :2
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2002 - El Sello De Los Tiempos\09 - Warcry - Hacia delante.wma
+Relativo : \WarCry\WarCry - 2002 - El Sello De Los Tiempos\09 - Warcry - Hacia delante.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1924048
+Tamanho em Kb :1878
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2002 - El Sello De Los Tiempos\10 - Warcry - Renacer.wma
+Relativo : \WarCry\WarCry - 2002 - El Sello De Los Tiempos\10 - Warcry - Renacer.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :412544
+Tamanho em Kb :402
+Tamanho em Mb :0
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2002 - El Sello De Los Tiempos\Portada_CD.jpg
+Relativo : \WarCry\WarCry - 2002 - El Sello De Los Tiempos\Portada_CD.jpg
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :13017
+Tamanho em Kb :12
+Tamanho em Mb :0
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2002 - El Sello De Los Tiempos\Symbols of Fairytale.txt
+Relativo : \WarCry\WarCry - 2002 - El Sello De Los Tiempos\Symbols of Fairytale.txt
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :147
+Tamanho em Kb :0
+Tamanho em Mb :0
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2002 - El Sello De Los Tiempos\Thumbs.db
+Relativo : \WarCry\WarCry - 2002 - El Sello De Los Tiempos\Thumbs.db
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :5632
+Tamanho em Kb :5
+Tamanho em Mb :0
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - Directo A La luz\01 - warcry - nuevo mundo.wma
+Relativo : \WarCry\WarCry - 2006 - Directo A La luz\01 - warcry - nuevo mundo.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :2292511
+Tamanho em Kb :2238
+Tamanho em Mb :2
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - Directo A La luz\02 - warcry - luz del norte.wma
+Relativo : \WarCry\WarCry - 2006 - Directo A La luz\02 - warcry - luz del norte.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1731527
+Tamanho em Kb :1690
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - Directo A La luz\03 - warcry - hijo de la ira.wma
+Relativo : \WarCry\WarCry - 2006 - Directo A La luz\03 - warcry - hijo de la ira.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :2020987
+Tamanho em Kb :1973
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - Directo A La luz\04 - warcry - contra el viento.wma
+Relativo : \WarCry\WarCry - 2006 - Directo A La luz\04 - warcry - contra el viento.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1665818
+Tamanho em Kb :1626
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - Directo A La luz\05 - warcry - el amor de una madre.wma
+Relativo : \WarCry\WarCry - 2006 - Directo A La luz\05 - warcry - el amor de una madre.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1860364
+Tamanho em Kb :1816
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - Directo A La luz\06 - warcry - trono del metal.wma
+Relativo : \WarCry\WarCry - 2006 - Directo A La luz\06 - warcry - trono del metal.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1932808
+Tamanho em Kb :1887
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - Directo A La luz\07 - warcry - espiritu de amor.wma
+Relativo : \WarCry\WarCry - 2006 - Directo A La luz\07 - warcry - espiritu de amor.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :2125157
+Tamanho em Kb :2075
+Tamanho em Mb :2
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - Directo A La luz\08 - warcry - tu mismo.wma
+Relativo : \WarCry\WarCry - 2006 - Directo A La luz\08 - warcry - tu mismo.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1661320
+Tamanho em Kb :1622
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - Directo A La luz\09 - warcry - en un lugar sin dios.wma
+Relativo : \WarCry\WarCry - 2006 - Directo A La luz\09 - warcry - en un lugar sin dios.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1808377
+Tamanho em Kb :1765
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - Directo A La luz\10 - warcry - nana.wma
+Relativo : \WarCry\WarCry - 2006 - Directo A La luz\10 - warcry - nana.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1975599
+Tamanho em Kb :1929
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - Directo A La luz\11 - warcry - capitan lawrence.wma
+Relativo : \WarCry\WarCry - 2006 - Directo A La luz\11 - warcry - capitan lawrence.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :2057299
+Tamanho em Kb :2009
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - Directo A La luz\12 - warcry - hoy gano yo.wma
+Relativo : \WarCry\WarCry - 2006 - Directo A La luz\12 - warcry - hoy gano yo.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :2543754
+Tamanho em Kb :2484
+Tamanho em Mb :2
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - Directo A La luz\imagem.bmp
+Relativo : \WarCry\WarCry - 2006 - Directo A La luz\imagem.bmp
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :268254
+Tamanho em Kb :261
+Tamanho em Mb :0
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - Directo A La luz\Symbols of Fairytale.txt
+Relativo : \WarCry\WarCry - 2006 - Directo A La luz\Symbols of Fairytale.txt
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :207
+Tamanho em Kb :0
+Tamanho em Mb :0
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - Directo A La luz\Thumbs.db
+Relativo : \WarCry\WarCry - 2006 - Directo A La luz\Thumbs.db
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :5632
+Tamanho em Kb :5
+Tamanho em Mb :0
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - La Quinta Escencia\01 - Warcry - Que Vengan Ya.wma
+Relativo : \WarCry\WarCry - 2006 - La Quinta Escencia\01 - Warcry - Que Vengan Ya.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1511970
+Tamanho em Kb :1476
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - La Quinta Escencia\02 - Warcry - Ulises.wma
+Relativo : \WarCry\WarCry - 2006 - La Quinta Escencia\02 - Warcry - Ulises.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :2036818
+Tamanho em Kb :1989
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - La Quinta Escencia\03 - Warcry - Tu Recuerdo Me Bastara.wma
+Relativo : \WarCry\WarCry - 2006 - La Quinta Escencia\03 - Warcry - Tu Recuerdo Me Bastara.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1521126
+Tamanho em Kb :1485
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - La Quinta Escencia\04 - Warcry - La Vieja Guardia.wma
+Relativo : \WarCry\WarCry - 2006 - La Quinta Escencia\04 - Warcry - La Vieja Guardia.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1389936
+Tamanho em Kb :1357
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - La Quinta Escencia\05 - Warcry - Un Poco De Fe.wma
+Relativo : \WarCry\WarCry - 2006 - La Quinta Escencia\05 - Warcry - Un Poco De Fe.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1754165
+Tamanho em Kb :1713
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - La Quinta Escencia\06 - Warcry - El Mas Triste Adios.wma
+Relativo : \WarCry\WarCry - 2006 - La Quinta Escencia\06 - Warcry - El Mas Triste Adios.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1715768
+Tamanho em Kb :1675
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - La Quinta Escencia\08 - Warcry - Ha Pasado Su Tiempo.wma
+Relativo : \WarCry\WarCry - 2006 - La Quinta Escencia\08 - Warcry - Ha Pasado Su Tiempo.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1308436
+Tamanho em Kb :1277
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - La Quinta Escencia\09 - Warcry - Redencion.wma
+Relativo : \WarCry\WarCry - 2006 - La Quinta Escencia\09 - Warcry - Redencion.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1457874
+Tamanho em Kb :1423
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - La Quinta Escencia\10 - Warcry - Mirando Al Mar.wma
+Relativo : \WarCry\WarCry - 2006 - La Quinta Escencia\10 - Warcry - Mirando Al Mar.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :2276924
+Tamanho em Kb :2223
+Tamanho em Mb :2
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - La Quinta Escencia\11 - Warcry - Mas Alla.wma
+Relativo : \WarCry\WarCry - 2006 - La Quinta Escencia\11 - Warcry - Mas Alla.wma
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :1523423
+Tamanho em Kb :1487
+Tamanho em Mb :1
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - La Quinta Escencia\AlbumArtSmall.jpg
+Relativo : \WarCry\WarCry - 2006 - La Quinta Escencia\AlbumArtSmall.jpg
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :2899
+Tamanho em Kb :2
+Tamanho em Mb :0
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - La Quinta Escencia\AlbumArt_{5CBAB160-9B17-4DD7-8EE5-0F2DFE01D1D9}_Large.jpg
+Relativo : \WarCry\WarCry - 2006 - La Quinta Escencia\AlbumArt_{5CBAB160-9B17-4DD7-8EE5-0F2DFE01D1D9}_Large.jpg
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :45801
+Tamanho em Kb :44
+Tamanho em Mb :0
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - La Quinta Escencia\AlbumArt_{5CBAB160-9B17-4DD7-8EE5-0F2DFE01D1D9}_Small.jpg
+Relativo : \WarCry\WarCry - 2006 - La Quinta Escencia\AlbumArt_{5CBAB160-9B17-4DD7-8EE5-0F2DFE01D1D9}_Small.jpg
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :2899
+Tamanho em Kb :2
+Tamanho em Mb :0
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - La Quinta Escencia\desktop.ini
+Relativo : \WarCry\WarCry - 2006 - La Quinta Escencia\desktop.ini
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :363
+Tamanho em Kb :0
+Tamanho em Mb :0
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - La Quinta Escencia\Folder.jpg
+Relativo : \WarCry\WarCry - 2006 - La Quinta Escencia\Folder.jpg
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :13016
+Tamanho em Kb :12
+Tamanho em Mb :0
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - La Quinta Escencia\Symbols of Fairytale.txt
+Relativo : \WarCry\WarCry - 2006 - La Quinta Escencia\Symbols of Fairytale.txt
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :207
+Tamanho em Kb :0
+Tamanho em Mb :0
+-----------------------------------------
+
+Absoluto : E:\Músicas\rock\WarCry\WarCry - 2006 - La Quinta Escencia\Thumbs.db
+Relativo : \WarCry\WarCry - 2006 - La Quinta Escencia\Thumbs.db
+É um diretório ?false
+É um arquivo   ?true
+Tamanho em bytes :8192
+Tamanho em Kb :8
+Tamanho em Mb :0
+-----------------------------------------
+

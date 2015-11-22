@@ -1,0 +1,25 @@
+body{
+     margin:0;
+     font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+#container{
+    position: relative;
+    width: 1000px;
+    margin-left: -500px;
+    left:50%;
+}
+
+.centralizar{
+    position: relative;
+    width: 1000px;
+    height: 500px;
+    margin-left: -500px;
+    margin-top: 5px;
+    left:50%;
+}
+
+
+option{
+    width: 100px;
+}
